@@ -1,0 +1,1 @@
+import this    #Los principios del Zen de Python, dale ejecutar y veras lo que muestra.
